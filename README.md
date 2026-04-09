@@ -5,11 +5,14 @@
 ### 🌐 **Live Demo** 
 
 
-→ **[Run EV Charging Optimizer](https://vghcx9fmr5x6wftvkf6hfv.streamlit.app/)**
+→ **[Run EV Charging Optimizer](https://jfufnftovd2xedsv6rhhrq.streamlit.app/)**
 
- **Download the dataset** (120 MB):
-   - Go to: [Synthetic EV Data - Kaggle](https://www.kaggle.com/datasets/ahmedess/synthetic-ev-data)
-   - Download `SYNTHETIC_EV_DATA.csv` and upload it on the app
+ **Download the dataset** (3MB):
+ The initial dataset is too large to be uploaded here. Therefore a small sample from it is provided in order
+ to see and test the calculation tool built.
+ Important note: since the sample dataset is much smaller the results are going to be different from the report.
+                 This is only for demonstration purposes and does not in anyway harm the quality of the tool.
+  
 
 # ⚡ EV Charging Station Optimization using Stochastic Simulation
 

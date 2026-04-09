@@ -5,11 +5,11 @@
 ### 🌐 **Live Demo ** 
 
 
-→ **[Run EV Charging Optimizer](https://jfufnftovd2xedsv6rhhrq.streamlit.app/)**
+→ **[Run EV Charging Optimizer](https://wqrzt2jbidnk6reny8xgzv.streamlit.app/)**
 
  **Instructions to run the app**:
  The initial dataset is too large to be uploaded here. Therefore a small sample (3MB) from it is provided in order
- to see and test the calculation tool built.Just download the sample dataset (SYNTHETIC_EV_DATA_sample.csv) located    in this repository , then click on the above link (Run EV Charging Optimizer), and upload the downloaded dataset on   the upload section inside the app and enjoy!
+ to see and test the calculation tool built.The sample dataset (SYNTHETIC_EV_DATA_sample.csv) located in this repository is included in the app. Click on the above link (Run EV Charging Optimizer) and enjoy the simulations
  
  Important note: since the sample dataset is much smaller the results are going to be different from the report.
                  This is only for demonstration purposes and does not in anyway harm the quality of the tool.

@@ -9,7 +9,8 @@
 
  **Download the dataset** (3MB):
  The initial dataset is too large to be uploaded here. Therefore a small sample from it is provided in order
- to see and test the calculation tool built.
+ to see and test the calculation tool built.Just download the smaple dataset (SYNTHETIC_EV_DATA_sample.csv) , click    on the above link (Run EV Charging Optimizer), and upload the downloaded dataset on the upload section.
+ 
  Important note: since the sample dataset is much smaller the results are going to be different from the report.
                  This is only for demonstration purposes and does not in anyway harm the quality of the tool.
   

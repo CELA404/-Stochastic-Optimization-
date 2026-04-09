@@ -83,4 +83,6 @@ An interactive **Streamlit app** is included, allowing users to:
 
 ---
 
+![optimal34](https://github.com/user-attachments/assets/939c5cdf-be65-4693-b741-7d1d7ef895f5)
+![tornado](https://github.com/user-attachments/assets/a2f798e7-3431-46d4-b4c1-b86104c2a5b7)
 

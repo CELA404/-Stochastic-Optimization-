@@ -7,7 +7,7 @@
 
 → **[Run EV Charging Optimizer](https://vghcx9fmr5x6wftvkf6hfv.streamlit.app/)**
 
-. **Κατέβασε το dataset** (120 MB):
+. **dataset** (120 MB):
    - Go to: [Synthetic EV Data - Kaggle](https://www.kaggle.com/datasets/ahmedess/synthetic-ev-data)
    - Download `SYNTHETIC_EV_DATA.csv` and upload it on the app
 
